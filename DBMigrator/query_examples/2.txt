@@ -1,0 +1,2 @@
++ create table dipendenti ( id int, nome varchar(50) );
+- drop table dipendenti;

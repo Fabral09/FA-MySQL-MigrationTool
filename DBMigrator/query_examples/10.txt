@@ -1,0 +1,2 @@
++ create table bambini ( id int, nome varchar(50) );
+- drop table bambini;

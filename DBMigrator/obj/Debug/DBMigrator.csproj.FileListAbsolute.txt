@@ -1,0 +1,5 @@
+C:\Users\Fabrizio\Desktop\DBMigrator\DBMigrator\bin\Debug\DBMigrator.exe.config
+C:\Users\Fabrizio\Desktop\DBMigrator\DBMigrator\bin\Debug\DBMigrator.exe
+C:\Users\Fabrizio\Desktop\DBMigrator\DBMigrator\bin\Debug\DBMigrator.pdb
+C:\Users\Fabrizio\Desktop\DBMigrator\DBMigrator\obj\Debug\DBMigrator.exe
+C:\Users\Fabrizio\Desktop\DBMigrator\DBMigrator\obj\Debug\DBMigrator.pdb
